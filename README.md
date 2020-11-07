@@ -1,2 +1,5 @@
 # hello-world
-Basic repository 
+Basic repository
+
+
+Instructions based off of GitHub guide. 
